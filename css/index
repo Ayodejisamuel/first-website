@@ -8,7 +8,7 @@ body { font-family:'merriweather'serif;
 }
  
 
-h1 { font-family:'Sacramento',cursive
+h1 { font-family:'Sacramento',cursive;
     color: #66bfbf; 
     font-family: cursive;
 }
