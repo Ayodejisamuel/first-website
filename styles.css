@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(65deg, grey 90%, powderblue 10%);
+    color: white;
+background-image:  
+url("images/Ayodeji.png");
+background-size: 80%;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+a:visited {
+    color:purple;
+}
+a:hover {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hotpink;
+}
